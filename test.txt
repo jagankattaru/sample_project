@@ -1,0 +1,10 @@
+ Volume in drive C is c_jagank
+ Volume Serial Number is 4096-6BF6
+
+ Directory of C:\Users\c_jagank\Desktop\MyProject
+
+09/12/2017  03:34 PM    <DIR>          .
+09/12/2017  03:34 PM    <DIR>          ..
+09/12/2017  03:34 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  818,163,613,696 bytes free
